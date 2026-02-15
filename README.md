@@ -37,6 +37,3 @@
 1. **本地查看**：Clone 本仓库后直接打开 Markdown 文件
 2. **公式渲染**：建议使用 Obsidian 或 VS Code + Markdown Preview 插件
 
----
-
-**目标院校**：清华深圳 \| **目标分数**：390+
